@@ -1,0 +1,2 @@
+The Enigma machine. Model M3 with 3 rotors and thick reflector (it got slim in later versions to give place to the fourth rotor.)
+Started on a competene day, going as a hobby project. Ugly code and unclear inputs, will polish it later.
